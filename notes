@@ -1,0 +1,32 @@
+Following are the operations, in which shuffling can be avoided/minimized by using a Partitioner
+- cogroup()
+- groupWith()
+- join()
+- leftOuterJoin()
+- rightOuterJoin()
+- groupByKey()
+- reduceByKey()
+- combineByKey()
+- lookup()
+
+Operations that preserves the Partitioner of the Parent RDD (or) result in Partitioner being set
+- cogroup()
+- groupWith()
+- join()
+- leftOuterJoin()
+- rightOuterJoin()
+- groupByKey()
+- reduceByKey()
+- combineByKey()
+- partitionBy()
+- sort()
+- mapValues()
+
+Operations that will not set a Partitioner
+- map()
+
+=======================================
+
+
+
+
