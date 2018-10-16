@@ -73,24 +73,24 @@
 		</dependency>
 
         <!-- Ignite dependencies -->
-        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-core -->
+        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-core 
         <dependency>
             <groupId>org.apache.ignite</groupId>
             <artifactId>ignite-core</artifactId>
             <version>2.0.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-spring -->
+        </dependency> -->
+        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-spring 
         <dependency>
             <groupId>org.apache.ignite</groupId>
             <artifactId>ignite-spring</artifactId>
             <version>2.0.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-spark -->
+        </dependency> -->
+        <!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-spark 
         <dependency>
             <groupId>org.apache.ignite</groupId>
             <artifactId>ignite-spark</artifactId>
             <version>2.0.0</version>
-        </dependency>
+        </dependency>-->
 
         <!-- Kryo dependency -->
 	    <dependency>
