@@ -28,12 +28,12 @@
             <version>${project.version}</version>
         </dependency>
 
-		<!-- Jackson dependency, has to be < 2.5 version for Spark 1.5 to work at runtime  -->
+		<!-- Jackson dependency, has to be < 2.5 version for Spark 1.5 to work at runtime  
 		<dependency>
 	  		<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-core</artifactId>
 			<version>${jackson-core.version}</version>
-	    </dependency>
+	    </dependency> 
 
 		<dependency>
 		    <groupId>com.fasterxml.jackson.core</groupId>
@@ -45,7 +45,7 @@
 	  		<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-annotations</artifactId>
 			<version>${jackson-annotations.version}</version>
-	    </dependency>
+	    </dependency> -->
 
         <dependency>
             <groupId>org.javassist</groupId>
